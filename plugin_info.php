@@ -37,7 +37,7 @@ class plugin_info
     static $PLUGIN_CODE = "OrderReturn";
 
     /** プラグイン名(必須)：プラグイン管理・画面出力（エラーメッセージetc）にはこの値が出力されます。 */
-    static $PLUGIN_NAME = "返品ステータスプラグイン";
+    static $PLUGIN_NAME = "返品管理プラグイン";
 
     /** プラグインメインクラス名(必須)：本体がプラグインを実行する際に呼ばれるクラス。拡張子は不要です。 */
     static $CLASS_NAME = "OrderReturn";
